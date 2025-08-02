@@ -5,4 +5,9 @@ Line 3
 =======
 >>>>>>> parent of a1bf596 (Add line 2)
 Line from Muthu's machine
+<<<<<<< HEAD
 Another local change from Muthu
+=======
+Hi Muthu from Rehan
+Hi Muthu from Rehan
+>>>>>>> d48ad9072a9e62d0173c15e43052ffd06f0ec377
