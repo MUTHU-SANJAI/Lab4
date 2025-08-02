@@ -1,9 +1,3 @@
-Line 1
-<<<<<<< HEAD
-Line 2
-Line 3
-=======
->>>>>>> parent of a1bf596 (Add line 2)
-Line from Muthu's machine
-Hi Muthu from Rehan
-Hi Muthu from Rehan
+Line from Muthu's laptop
+Another local change from Muthu
+Line from peer's laptop
