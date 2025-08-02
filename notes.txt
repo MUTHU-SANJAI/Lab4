@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Line 1
 <<<<<<< HEAD
 Line 2
@@ -11,3 +12,8 @@ Another local change from Muthu
 Hi Muthu from Rehan
 Hi Muthu from Rehan
 >>>>>>> d48ad9072a9e62d0173c15e43052ffd06f0ec377
+=======
+Line from Muthu's laptop
+Another local change from Muthu
+Line from peer's laptop
+>>>>>>> 340d355e5426d85ad19cca3c89025c2cf047fb8e
